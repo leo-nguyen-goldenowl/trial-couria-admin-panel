@@ -1,0 +1,1 @@
+# trial-couria-admin-panel
